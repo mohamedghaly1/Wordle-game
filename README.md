@@ -2,7 +2,7 @@
 A very simple wordle game that you can add a word and its category.And guess the word randomly selected.Using Prolog
 
 Winning scenario in the game play phase:-
-![pic1](https://user-images.githubusercontent.com/102426735/236138601-ca0cab2b-c6f3-4317-9a24-7147b4e03a4f.png)
+![pic1](https://user-images.githubusercontent.com/102426735/236138956-8783f01a-2cc7-4f8b-93ce-2ab8bb75477c.png)
 ![pic2](https://user-images.githubusercontent.com/102426735/236138608-20482dac-581f-4b9f-9653-29c2594c3379.png)
 
 Losing scenario in the game play phase:-
